@@ -1,0 +1,14 @@
+Crear una cuenta de desarrollador de Google Cloud Platform
+
+activar la API Indexing en la consola de Google Cloud Platform
+
+Instalar biblioteca para php 
+composer require google/apiclient (bash)
+
+Configurar la autenticación de Google en CodeIgniter:
+archivo config/google.php
+
+Hacer controlador para la API Indexing
+IndexController.php
+
+Ejecutar la solicitud de indexación

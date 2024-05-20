@@ -1,0 +1,13 @@
+Controlador del Sitemap
+generación del sitemap.
+application/controllers/Sitemap.php
+
+Modelo para Productos
+Cmodelo para manejar las operaciones de base de datos de los productos.
+application/models/Product_model.php
+
+Vista del Sitemap
+application/views/sitemap_view.php
+
+Configurar las Rutas
+application/config/routes.php:

@@ -1,0 +1,7 @@
+Ejecutar tarea de indexacion cada tres dias
+
+Crear tarea: application/tasks/SendIndexationRequest.php (tarea) {ejecutar la solicitud de indexación.}
+
+Programar tarea: application/config/cron.php
+
+ejecutar tarea en el servidor
